@@ -1,0 +1,1860 @@
+{
+  "outbounds": [
+    {
+      "tag": "剩余流量：522.08GB",
+      "type": "shadowsocks",
+      "server": "clashcloud.org",
+      "server_port": 10086,
+      "method": "chacha20-ietf",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "过期时间：2024-12-19",
+      "type": "shadowsocks",
+      "server": "clashcloud.org",
+      "server_port": 10086,
+      "method": "chacha20-ietf",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "1 备用登录 管人痴.com",
+      "type": "shadowsocks",
+      "server": "114.51.41.91",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "1 备用面板 ssr.wtf",
+      "type": "shadowsocks",
+      "server": "59.43.17.23",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "1 忘记登录需联系客服",
+      "type": "shadowsocks",
+      "server": "59.43.120.67",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "1 此计划禁止工作室使用 禁止任何商业使用",
+      "type": "shadowsocks",
+      "server": "114.152.162.31",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "1 请使用全局代理访问官网，非全局会拦截报1020",
+      "type": "shadowsocks",
+      "server": "116.236.21.7",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B01",
+      "type": "shadowsocks",
+      "server": "pccw01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B02",
+      "type": "shadowsocks",
+      "server": "pccw02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B03",
+      "type": "shadowsocks",
+      "server": "pccw03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B04",
+      "type": "shadowsocks",
+      "server": "pccw04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B05",
+      "type": "shadowsocks",
+      "server": "pccw05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B06",
+      "type": "shadowsocks",
+      "server": "pccw06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B07",
+      "type": "shadowsocks",
+      "server": "pccw07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B08",
+      "type": "shadowsocks",
+      "server": "pccw08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B09",
+      "type": "shadowsocks",
+      "server": "pccw09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC B10",
+      "type": "shadowsocks",
+      "server": "pvcc01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 1",
+      "type": "shadowsocks",
+      "server": "zero01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 2",
+      "type": "shadowsocks",
+      "server": "zero02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 3",
+      "type": "shadowsocks",
+      "server": "zero03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 4",
+      "type": "shadowsocks",
+      "server": "zero04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 5",
+      "type": "shadowsocks",
+      "server": "zero05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "Next generation AnyPath® Direct Internet Zero Trust Network Access (DIZTNA3.0) CloudBlades 6",
+      "type": "shadowsocks",
+      "server": "zero06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-加拿大 IPLC B01",
+      "type": "shadowsocks",
+      "server": "ca01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-加拿大 IPLC B02",
+      "type": "shadowsocks",
+      "server": "ca02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-加拿大 IPLC B03",
+      "type": "shadowsocks",
+      "server": "ca03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-加拿大 IPLC B04",
+      "type": "shadowsocks",
+      "server": "ca04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-加拿大 IPLC B05",
+      "type": "shadowsocks",
+      "server": "ca05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-印度 IPLC B01 孟买",
+      "type": "shadowsocks",
+      "server": "in01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-印度 IPLC B02 孟买",
+      "type": "shadowsocks",
+      "server": "in02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-印度 IPLC B03 贾坎德",
+      "type": "shadowsocks",
+      "server": "in03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-印度 IPLC B04 贾坎德",
+      "type": "shadowsocks",
+      "server": "in04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-印度 IPLC B05 贾坎德",
+      "type": "shadowsocks",
+      "server": "in05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-印度 IPLC B06 贾坎德",
+      "type": "shadowsocks",
+      "server": "in06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-印度 IPLC B07 泰米尔纳德",
+      "type": "shadowsocks",
+      "server": "in07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-印度 IPLC B08 泰米尔纳德",
+      "type": "shadowsocks",
+      "server": "in08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾IEPL Hinet固接 B01",
+      "type": "shadowsocks",
+      "server": "tw01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾IEPL Hinet固接 B02",
+      "type": "shadowsocks",
+      "server": "tw02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾IEPL Hinet固接 B03",
+      "type": "shadowsocks",
+      "server": "tw03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾IEPL Hinet固接 B04",
+      "type": "shadowsocks",
+      "server": "tw04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾IEPL Hinet固接 B05",
+      "type": "shadowsocks",
+      "server": "tw05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾IEPL Hinet固接 B06",
+      "type": "shadowsocks",
+      "server": "tw06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾IEPL Hinet固接 B07",
+      "type": "shadowsocks",
+      "server": "tw07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾IEPL Hinet固接 B08",
+      "type": "shadowsocks",
+      "server": "tw08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾IEPL Hinet固接 B09",
+      "type": "shadowsocks",
+      "server": "tw09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾嘉义 IPLC B01 游戏专线Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twgame01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾嘉义 IPLC B02 游戏专线Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twgame02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾嘉义 IPLC B03 游戏专线Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twgame03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾嘉义 IPLC B04 游戏专线Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twgame04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾嘉义 IPLC B05 游戏专线Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twgame05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾嘉义 IPLC B06 游戏专线Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twgame06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾嘉义 IPLC B07 游戏专线Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twgame07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾嘉义 IPLC B08 游戏专线Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twgame08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾嘉义 IPLC B09 游戏专线Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twgame09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾高雄 IPLC B01 Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twct01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾高雄 IPLC B02 Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twct02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾高雄 IPLC B03 Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twct03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾高雄 IPLC B04 Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twct04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾高雄 IPLC B05 Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twct05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾高雄 IPLC B06 Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twct06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾高雄 IPLC B07 Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twct07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾高雄 IPLC B08 Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twct08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-台湾高雄 IPLC B09 Netflix 动画疯",
+      "type": "shadowsocks",
+      "server": "twct09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 多协议标签交换虚拟专用网 B1 1000Mbps",
+      "type": "shadowsocks",
+      "server": "hr01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 多协议标签交换虚拟专用网 B2 1000Mbps",
+      "type": "shadowsocks",
+      "server": "hr02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 多协议标签交换虚拟专用网 B3 1000Mbps",
+      "type": "shadowsocks",
+      "server": "hr03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 多协议标签交换虚拟专用网 B4 1000Mbps",
+      "type": "shadowsocks",
+      "server": "hr04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 多协议标签交换虚拟专用网 B6 1000Mbps",
+      "type": "shadowsocks",
+      "server": "hr06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 多协议标签交换虚拟专用网 B7 1000Mbps",
+      "type": "shadowsocks",
+      "server": "hr07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 多协议标签交换虚拟专用网 B8 1000Mbps",
+      "type": "shadowsocks",
+      "server": "hr08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 多协议标签交换虚拟专用网 B9 1000Mbps",
+      "type": "shadowsocks",
+      "server": "hr09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B01 Netflix",
+      "type": "shadowsocks",
+      "server": "hr11.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B02 Netflix",
+      "type": "shadowsocks",
+      "server": "hr12.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B03 Netflix",
+      "type": "shadowsocks",
+      "server": "hr13.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B04 Netflix",
+      "type": "shadowsocks",
+      "server": "hr14.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B05 Netflix",
+      "type": "shadowsocks",
+      "server": "hr15.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B06 Netflix",
+      "type": "shadowsocks",
+      "server": "hr16.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B07 Netflix",
+      "type": "shadowsocks",
+      "server": "hr17.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B08 Netflix",
+      "type": "shadowsocks",
+      "server": "hr18.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B09 Netflix",
+      "type": "shadowsocks",
+      "server": "hr19.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-日本 沪日IEPL传输 Equinix-TY8 B10 Netflix",
+      "type": "shadowsocks",
+      "server": "hr10.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-法国 IPLC B01",
+      "type": "shadowsocks",
+      "server": "fr01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-法国 IPLC B02",
+      "type": "shadowsocks",
+      "server": "fr02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-法国 IPLC B03",
+      "type": "shadowsocks",
+      "server": "fr03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-法国 IPLC B04",
+      "type": "shadowsocks",
+      "server": "fr04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-法国 IPLC B05",
+      "type": "shadowsocks",
+      "server": "fr05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-澳大利亚 IPLC 悉尼 B01",
+      "type": "shadowsocks",
+      "server": "au01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-澳大利亚 IPLC 悉尼 B02",
+      "type": "shadowsocks",
+      "server": "au02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-澳大利亚 IPLC 悉尼 B03",
+      "type": "shadowsocks",
+      "server": "au03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-澳大利亚 IPLC 悉尼 B04",
+      "type": "shadowsocks",
+      "server": "au04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-澳大利亚 IPLC 悉尼 B05",
+      "type": "shadowsocks",
+      "server": "au05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-爱尔兰 IPLC B01",
+      "type": "shadowsocks",
+      "server": "ir01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-爱尔兰 IPLC B02",
+      "type": "shadowsocks",
+      "server": "ir02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-爱尔兰 IPLC B03",
+      "type": "shadowsocks",
+      "server": "ir03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-爱尔兰 IPLC B04",
+      "type": "shadowsocks",
+      "server": "ir04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-爱尔兰 IPLC B05",
+      "type": "shadowsocks",
+      "server": "ir05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-英国伦敦电信 IEPL B01",
+      "type": "shadowsocks",
+      "server": "uk01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-英国伦敦电信 IEPL B02",
+      "type": "shadowsocks",
+      "server": "uk02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-英国伦敦电信 IEPL B04",
+      "type": "shadowsocks",
+      "server": "uk04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B01 Netflix",
+      "type": "shadowsocks",
+      "server": "kr01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B02 Netflix",
+      "type": "shadowsocks",
+      "server": "kr02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B03 Netflix",
+      "type": "shadowsocks",
+      "server": "kr03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B04 Netflix",
+      "type": "shadowsocks",
+      "server": "kr04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B05 Netflix",
+      "type": "shadowsocks",
+      "server": "kr05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B06 Netflix",
+      "type": "shadowsocks",
+      "server": "kr06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B07 Netflix",
+      "type": "shadowsocks",
+      "server": "kr07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B08 Netflix",
+      "type": "shadowsocks",
+      "server": "kr08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B09 Netflix",
+      "type": "shadowsocks",
+      "server": "kr09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国 IPLC B10 Netflix",
+      "type": "shadowsocks",
+      "server": "kr10.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 01 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 02 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 03 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 04 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 05 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 06 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 07 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 08 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 09 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-韩国首尔 游戏IEPL B 10 Netflix 原生游戏解锁",
+      "type": "shadowsocks",
+      "server": "krgame10.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-香港 IEPL Equinix HK2 B 01 1Gbps HBO TVB",
+      "type": "shadowsocks",
+      "server": "sg01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-香港 IEPL Equinix HK2 B 02 1Gbps HBO TVB",
+      "type": "shadowsocks",
+      "server": "sg02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-香港 IEPL Equinix HK2 B 03 1Gbps HBO TVB",
+      "type": "shadowsocks",
+      "server": "sg03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-香港 IEPL Equinix HK2 B 04 1Gbps HBO TVB",
+      "type": "shadowsocks",
+      "server": "sg04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-香港 IEPL Equinix HK2 B 05 1Gbps HBO TVB",
+      "type": "shadowsocks",
+      "server": "sg05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-香港 IEPL Equinix HK2 B 06 1Gbps HBO TVB",
+      "type": "shadowsocks",
+      "server": "sg06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-香港 IEPL Equinix HK2 B 07 1Gbps HBO TVB",
+      "type": "shadowsocks",
+      "server": "sg07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-香港 IEPL Equinix HK2 B 08 1Gbps HBO TVB",
+      "type": "shadowsocks",
+      "server": "sg08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "中国-香港 IEPL Equinix HK2 B 09 1Gbps HBO TVB",
+      "type": "shadowsocks",
+      "server": "sg09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "俄罗斯 01",
+      "type": "shadowsocks",
+      "server": "ru01.fjk.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "俄罗斯 02",
+      "type": "shadowsocks",
+      "server": "ru02.fjk.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "俄罗斯 03",
+      "type": "shadowsocks",
+      "server": "ru03.fjk.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "俄罗斯 04",
+      "type": "shadowsocks",
+      "server": "ru04.fjk.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "俄罗斯 05",
+      "type": "shadowsocks",
+      "server": "ru05.fjk.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "俄罗斯 06",
+      "type": "shadowsocks",
+      "server": "ru06.fjk.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "山东联通临时接入",
+      "type": "shadowsocks",
+      "server": "118.184.189.145",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "德国 H1",
+      "type": "shadowsocks",
+      "server": "ge01.htz.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "德国 H2",
+      "type": "shadowsocks",
+      "server": "ge02.htz.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "德国 H3",
+      "type": "shadowsocks",
+      "server": "ge03.htz.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "德国 H4",
+      "type": "shadowsocks",
+      "server": "ge04.htz.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "德国 H5",
+      "type": "shadowsocks",
+      "server": "ge05.htz.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "德国 H6",
+      "type": "shadowsocks",
+      "server": "ge06.htz.wtf",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Legacy Magic IEPL 中继 B01 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Legacy Magic IEPL 中继 B02 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Legacy Magic IEPL 中继 B03 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Legacy Magic IEPL 中继 B04 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Legacy Magic IEPL 中继 B05 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Magic IEPL 中继 B01 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Magic IEPL 中继 B02 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Magic IEPL 中继 B03 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Magic IEPL 中继 B04 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡 Magic IEPL 中继 B05 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp10.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡高级 IEPL 中继 B01 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp11.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "新加坡高级 IEPL 中继 B02 Netflix",
+      "type": "shadowsocks",
+      "server": "sgp12.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "无Ins购买渠道 Ins购买均为二手倒卖",
+      "type": "shadowsocks",
+      "server": "127.0.0.8",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "无QQ购买渠道 QQ购买均为二手倒卖",
+      "type": "shadowsocks",
+      "server": "127.0.0.7",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "无微信购买渠道 微信均为二手倒卖",
+      "type": "shadowsocks",
+      "server": "127.0.0.6",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 ソフトバンク B01 500Mbps 1倍 Netflix",
+      "type": "shadowsocks",
+      "server": "jp06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 ソフトバンク B02 500Mbps 1倍 Netflix",
+      "type": "shadowsocks",
+      "server": "jp07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 ソフトバンク B03 500Mbps 1倍 Netflix",
+      "type": "shadowsocks",
+      "server": "jp08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 ソフトバンク B04 500Mbps 1倍 Netflix",
+      "type": "shadowsocks",
+      "server": "jp09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 ソフトバンク B05 500Mbps 1倍 Netflix",
+      "type": "shadowsocks",
+      "server": "jp10.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 01",
+      "type": "shadowsocks",
+      "server": "jp01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 02",
+      "type": "shadowsocks",
+      "server": "jp02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 03",
+      "type": "shadowsocks",
+      "server": "jp03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 04",
+      "type": "shadowsocks",
+      "server": "jp04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 06",
+      "type": "shadowsocks",
+      "server": "jp27.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 07",
+      "type": "shadowsocks",
+      "server": "jp28.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 08",
+      "type": "shadowsocks",
+      "server": "jp29.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 09",
+      "type": "shadowsocks",
+      "server": "jp30.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 10",
+      "type": "shadowsocks",
+      "server": "jp31.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 11",
+      "type": "shadowsocks",
+      "server": "jp32.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 12",
+      "type": "shadowsocks",
+      "server": "jp22.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 13",
+      "type": "shadowsocks",
+      "server": "jp23.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 14",
+      "type": "shadowsocks",
+      "server": "jp24.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 15",
+      "type": "shadowsocks",
+      "server": "jp25.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本 まつやまし auひかり ホーム1ギガ B 16",
+      "type": "shadowsocks",
+      "server": "jp26.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本大阪 オプテージ B 01",
+      "type": "shadowsocks",
+      "server": "jp14.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本大阪 オプテージ B 02",
+      "type": "shadowsocks",
+      "server": "jp15.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本大阪 オプテージ B 03",
+      "type": "shadowsocks",
+      "server": "jp16.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本大阪 オプテージ B 04",
+      "type": "shadowsocks",
+      "server": "jp17.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本大阪 オプテージ B 05",
+      "type": "shadowsocks",
+      "server": "jp18.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本大阪 オプテージ B 06",
+      "type": "shadowsocks",
+      "server": "jp19.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "日本大阪 オプテージ B 07",
+      "type": "shadowsocks",
+      "server": "jp20.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "海外连接 日本",
+      "type": "shadowsocks",
+      "server": "103.142.141.79",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "纯IPV6接入",
+      "type": "shadowsocks",
+      "server": "2001:e42:102:1523:160:16:95:158",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国实验性 IEPL 中继 B01",
+      "type": "shadowsocks",
+      "server": "us06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国实验性 IEPL 中继 B02",
+      "type": "shadowsocks",
+      "server": "us07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国实验性 IEPL 中继 B03",
+      "type": "shadowsocks",
+      "server": "us08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国实验性 IEPL 中继 B04",
+      "type": "shadowsocks",
+      "server": "us09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国实验性 IEPL 中继 B05",
+      "type": "shadowsocks",
+      "server": "us10.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国高级 IEPL 中继 B01",
+      "type": "shadowsocks",
+      "server": "us01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国高级 IEPL 中继 B02",
+      "type": "shadowsocks",
+      "server": "us02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国高级 IEPL 中继 B03",
+      "type": "shadowsocks",
+      "server": "us03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国高级 IEPL 中继 B04",
+      "type": "shadowsocks",
+      "server": "us04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "美国高级 IEPL 中继 B05",
+      "type": "shadowsocks",
+      "server": "us05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "集客VPLS/5000Mbps/5000Mbps/上海-(国际)香港 B01",
+      "type": "shadowsocks",
+      "server": "hkaia01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 01",
+      "type": "shadowsocks",
+      "server": "krsk01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 02",
+      "type": "shadowsocks",
+      "server": "krsk02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 03",
+      "type": "shadowsocks",
+      "server": "krsk03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 04",
+      "type": "shadowsocks",
+      "server": "krsk04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 05",
+      "type": "shadowsocks",
+      "server": "krsk05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 06",
+      "type": "shadowsocks",
+      "server": "krsk06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 07",
+      "type": "shadowsocks",
+      "server": "krsk07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 08",
+      "type": "shadowsocks",
+      "server": "krsk08.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 09",
+      "type": "shadowsocks",
+      "server": "krsk09.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "韩国 전라북도 전주시 商宽 B 10",
+      "type": "shadowsocks",
+      "server": "krsk10.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 01",
+      "type": "shadowsocks",
+      "server": "118.184.189.145",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 02",
+      "type": "shadowsocks",
+      "server": "118.184.189.147",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 03",
+      "type": "shadowsocks",
+      "server": "118.184.189.148",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 04",
+      "type": "shadowsocks",
+      "server": "118.184.189.149",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 05",
+      "type": "shadowsocks",
+      "server": "118.184.189.150",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 06",
+      "type": "shadowsocks",
+      "server": "118.184.189.151",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 07",
+      "type": "shadowsocks",
+      "server": "118.184.189.152",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 08",
+      "type": "shadowsocks",
+      "server": "211.99.97.10",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 09",
+      "type": "shadowsocks",
+      "server": "211.99.97.11",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 10",
+      "type": "shadowsocks",
+      "server": "211.99.97.12",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 11",
+      "type": "shadowsocks",
+      "server": "211.99.97.13",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 12",
+      "type": "shadowsocks",
+      "server": "211.99.97.14",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 13",
+      "type": "shadowsocks",
+      "server": "211.99.97.15",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 14",
+      "type": "shadowsocks",
+      "server": "211.99.97.16",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 15",
+      "type": "shadowsocks",
+      "server": "211.99.97.17",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 17",
+      "type": "shadowsocks",
+      "server": "211.99.97.19",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 18",
+      "type": "shadowsocks",
+      "server": "211.99.97.20",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 19",
+      "type": "shadowsocks",
+      "server": "211.99.97.21",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 20",
+      "type": "shadowsocks",
+      "server": "211.99.97.22",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 油尖旺御金·国峯 網上行寬頻 B01",
+      "type": "shadowsocks",
+      "server": "hkt01.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 油尖旺御金·国峯 網上行寬頻 B02",
+      "type": "shadowsocks",
+      "server": "hkt02.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 油尖旺御金·国峯 網上行寬頻 B03",
+      "type": "shadowsocks",
+      "server": "hkt03.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 油尖旺御金·国峯 網上行寬頻 B04",
+      "type": "shadowsocks",
+      "server": "hkt04.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 油尖旺御金·国峯 網上行寬頻 B05",
+      "type": "shadowsocks",
+      "server": "hkt05.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 油尖旺御金·国峯 網上行寬頻 B06",
+      "type": "shadowsocks",
+      "server": "hkt06.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    },
+    {
+      "tag": "香港 油尖旺御金·国峯 網上行寬頻 B07",
+      "type": "shadowsocks",
+      "server": "hkt07.graniterapids.com",
+      "server_port": 49341,
+      "method": "rc4-md5",
+      "password": "6vsSnz"
+    }
+  ]
+}
