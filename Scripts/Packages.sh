@@ -122,7 +122,21 @@ UPDATE_VERSION() {
 #UPDATE_VERSION "软件包名" "测试版，true，可选，默认为否"
 UPDATE_VERSION "sing-box"
 #UPDATE_VERSION "tailscale"
-# ... 之前的代码保持不变 ...
+# --- 预置 Lucky 配置文件开始 ---
+echo "Creating Lucky pre-config..."
+# 注意：此时脚本通常在 Scripts/ 目录下运行，源码根目录在 ../
+# 所以路径要写成 ../files/...
+mkdir -p ../files/etc/config
+
+cat <<EOF > ../files/etc/config/lucky
+config lucky 'lucky'
+	option enabled '1'
+	option port '16601'
+	option logger '1'
+	option delay '5'
+EOF
+echo "Lucky pre-config created successfully."
+# --- 预置 Lucky 配置文件结束 ---
 
 # 确保在执行 feeds 命令前回到源码根目录
 # 假设你的脚本在 Scripts/ 目录下运行，源码根目录在 ../
