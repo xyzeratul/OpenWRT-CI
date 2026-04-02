@@ -122,7 +122,11 @@ UPDATE_VERSION() {
 #UPDATE_VERSION "软件包名" "测试版，true，可选，默认为否"
 UPDATE_VERSION "sing-box"
 #UPDATE_VERSION "tailscale"
-# 特别提示：lucky 依赖 Go 语言环境
-# 建议在所有 UPDATE_PACKAGE 执行完后执行一次 feeds 更新与安装
+# ... 之前的代码保持不变 ...
+
+# 确保在执行 feeds 命令前回到源码根目录
+# 假设你的脚本在 Scripts/ 目录下运行，源码根目录在 ../
+cd ..
+
 ./scripts/feeds update -a
 ./scripts/feeds install -a
